@@ -40,4 +40,4 @@ sudo chmod +x /usr/local/bin/docker-compose
 # Install bash completion
 sudo curl -L https://raw.githubusercontent.com/docker/compose/1.24.0/contrib/completion/bash/docker-compose -o /etc/bash_completion.d/docker-compose
 
-echo 'Restart the machine for all changes to take effect.'
+echo "Restart the machine for all changes to take effect."
